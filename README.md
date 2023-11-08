@@ -4,5 +4,5 @@
 </p>
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FarrelAD&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FarrelAD&theme=highcontrast&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 </div>
