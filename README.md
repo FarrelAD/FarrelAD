@@ -5,4 +5,8 @@
 <div align="center">
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FarrelAD&theme=highcontrast&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,java" />
+  </a>
 </div>
