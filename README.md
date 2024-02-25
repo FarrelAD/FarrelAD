@@ -20,6 +20,6 @@
 </a>
 
 ## Another me!
-<a href="https://www.codewars.com/users/FarrelAD">
+<a href="https://www.codewars.com/users/FarrelAD" target="_blank">
   <img src="https://www.codewars.com/users/FarrelAD/badges/large">
 </a>
