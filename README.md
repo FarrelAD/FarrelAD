@@ -18,3 +18,8 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,vscode,java,python" />
 </a>
+
+## Another me!
+<a href="https://www.codewars.com/users/FarrelAD">
+  <img src="https://www.codewars.com/users/FarrelAD/badges/large">
+</a>
