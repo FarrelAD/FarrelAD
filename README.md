@@ -13,12 +13,17 @@
 </p>
 
 ---
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarrelAD&theme=merko">
+</div>
 
+---
 ## Most used tools
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,vscode,java,python" />
 </a>
 
+---
 ## Another me!
 <a href="https://www.codewars.com/users/FarrelAD" target="_blank">
   <img src="https://www.codewars.com/users/FarrelAD/badges/large">
