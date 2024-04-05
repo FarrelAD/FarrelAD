@@ -20,7 +20,7 @@
 ---
 ## Most used tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,vscode,java,python" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,java,python,js" />
 </a>
 
 ---
