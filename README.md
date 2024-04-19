@@ -18,10 +18,13 @@
 </div>
 
 ---
+<details>
+  <summary>Most Used Tools</summary>
 ## Most used tools
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,vscode,java,python,js" />
 </a>
+</details>
 
 ---
 ## Another me!
