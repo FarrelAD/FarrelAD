@@ -26,7 +26,9 @@
 </details>
 
 ---
-## Another me!
-<a href="https://www.codewars.com/users/FarrelAD" target="_blank">
-  <img src="https://www.codewars.com/users/FarrelAD/badges/large">
-</a>
+<details>
+  <summary><h2>Another me!</h2></summary>
+    <a href="https://www.codewars.com/users/FarrelAD" target="_blank">
+    <img src="https://www.codewars.com/users/FarrelAD/badges/large">
+  </a>
+</details>
