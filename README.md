@@ -18,17 +18,13 @@
 </div>
 
 ---
-<details>
-  <summary><h2> ⚒️ Most Used Tools</h2></summary>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,vscode,java,python,js" />
-    </a>
-</details>
+## ⚒️ Most Used Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,vscode,java,python,js,html,css,bootstrap" />
+</a>
 
 ---
-<details>
-  <summary><h2> 🤠 Another me!</h2></summary>
-    <a href="https://www.codewars.com/users/FarrelAD" target="_blank">
-    <img src="https://www.codewars.com/users/FarrelAD/badges/large">
-  </a>
-</details>
+## 🤠 Codewars!
+<a href="https://www.codewars.com/users/FarrelAD" target="_blank">
+  <img src="https://www.codewars.com/users/FarrelAD/badges/large">
+</a>
