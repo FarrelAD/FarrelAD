@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://www.gifcen.com/wp-content/uploads/2023/06/aurora-gif-1.gif" width="75%">
-</div>
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/farrelad/">LinkedIn</a> • <a href="https://www.instagram.com/farrel_rr/">Instagram</a> • <a href="https://web.facebook.com/farrelad100/">Facebook</a>
 </p>
