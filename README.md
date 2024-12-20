@@ -1,5 +1,5 @@
-<table width="100%">
-  <tr width="100%">
+<table width="100" align="center">
+  <tr width="100">
     <td width="70%">
       <pre>
         <code class="language-json">
