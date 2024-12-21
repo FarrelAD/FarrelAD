@@ -35,13 +35,14 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <div align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarrelAD&theme=merko">
+      </div>
+    </td>
+  </tr>
 </table>
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarrelAD&theme=merko">
-</div>
 
 
 <svg width="337" height="349" viewBox="0 0 337 349" fill="none" xmlns="http://www.w3.org/2000/svg">
