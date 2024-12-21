@@ -28,6 +28,13 @@
       <img src="assets/img/F.svg" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,nodejs,vue,bootstrap" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
