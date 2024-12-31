@@ -13,7 +13,8 @@
               "programming": [
                 "java",
                 "javascript",
-                "python"
+                "python",
+                "php"
               ]
             ],
             "projects": [
