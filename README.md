@@ -1,20 +1,21 @@
-# Daily Tools
-## Programming Languages
+# About Me 🕵🏻‍♂️  
 
-![Programming language skills](https://skillicons.dev/icons?i=js,ts,python,java,php,dart)
+Hello everyone! 👋 I'm passionate about software development and AI. This year, I'm diving deep into **web development** and **mobile app development with Flutter**, while also expanding my knowledge in **AI development**.  
 
-## Framework & Libraries
+Beyond that, I have a strong curiosity for exploring new technologies. Whether it's a new programming paradigm, a different tech stack, or an emerging field in IT, I enjoy experimenting and learning something new to broaden my skills. 🚀  
 
-![Framework & libraries skills](https://skillicons.dev/icons?i=nodejs,alpinejs,express,tailwind,vue,laravel,flask)
+# Get In Touch With Me 🪶
 
-## Database
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farrel.apeiron@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farrelad/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/farrel_rr/)
 
-![Database skills](https://skillicons.dev/icons?i=mysql,)
+# Daily Tools 🛠️
 
-## Text Editor
-
-![Text editor](https://skillicons.dev/icons?i=vscode,idea,)
-
-## Documentation
-
-![Documentation](https://skillicons.dev/icons?i=notion,obsidian)
+- Programming languages : JavaScript, TypeScript, Python, PHP, Java, Dart
+- Backend app : NodeJS, ExpressJS, Laravel
+- Web app : TailwindCSS, AlpineJS, VueJS
+- Database : MySQL
+- Data processing : Pandas, Numpy
+- Text editor : VSCode, IntelliJ IDEA
+- Documentation : Notion, Obsidian
