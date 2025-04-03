@@ -1,7 +1,7 @@
 # Daily Tools
 ## Programming Languages
 
-![Programming language skills](https://skillicons.dev/icons?i=js,ts,python,java,php)
+![Programming language skills](https://skillicons.dev/icons?i=js,ts,python,java,php,dart)
 
 ## Framework & Libraries
 
